@@ -1,2 +1,2 @@
 # vimBasics
-Vim is Cool!!!
+### Basics VIM commands that will maximize your editing skill!!!

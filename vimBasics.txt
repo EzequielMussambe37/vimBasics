@@ -1,0 +1,15 @@
+This is are the basics key binds or commands of VIM 
+dw -> it deletes a word
+dd -> it deletes a line
+yy -> it copies a line
+p  -> it paste a line copied
+e  -> it moves to the end of each word
+r  -> it replaces a letter
+H  -> it moves to top of the screen
+L  -> it moves to bottom of screen
+M  -> it moves to middle of screen
+n  -> it moves down when a word was searched, moves to find the next word
+N  -> it moves up to find next word
+/[a word] -> it searches for a word specified
+:%s/[a word]/[new word]/gc -> to find all the occurence and replace with new word, the c- is for confirmation but we can remove it
+

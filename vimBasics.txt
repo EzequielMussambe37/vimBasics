@@ -1,4 +1,4 @@
-This is are the basics key binds or commands of VIM 
+These  are the basics  commands of VIM 
 dw -> it deletes a word
 dd -> it deletes a line
 yy -> it copies a line
